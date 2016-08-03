@@ -1,0 +1,29 @@
+body {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  background: #FFFFFF;
+}
+
+h1 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding-bottom: 20px;
+  font-family: "le-havre-rounded";
+  font-weight: 700;
+}
+
+p {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "jaf-facitweb";
+  font-weight: 200;
+  padding-bottom: 10px;
+}
+
+.fullwidth {
+  width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+}
